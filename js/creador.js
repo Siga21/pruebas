@@ -1,0 +1,2 @@
+fichero de javascript
+
