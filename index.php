@@ -1,1 +1,3 @@
-eso index
+<?php
+ echo "hola mundo";
+?>
